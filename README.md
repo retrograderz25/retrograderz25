@@ -50,18 +50,18 @@
     <td valign="top" width="40%">
       <h3>📊 My GitHub Stats</h3>
       <p align="center">
-        <a href="https://github.com/retrograderz">
-          <img src="https://github-readme-stats.vercel.app/api?username=retrograderz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <a href="https://github.com/retrograderz25">
+          <img src="https://github-readme-stats.vercel.app/api?username=retrograderz25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         </a>
       </p>
       <p align="center">
-        <a href="https://github.com/retrograderz">
-          <img src="https://nirzak-streak-stats.vercel.app/?user=retrograderz&theme=tokyonight&hide_border=false"/>
+        <a href="https://github.com/retrograderz25">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=retrograderz25&theme=tokyonight&hide_border=false"/>
         </a>
       </p>
       <p align="center">
-        <a href="https://github.com/retrograderz">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrograderz&layout=compact&langs_count=8&theme=tokyonight"/>
+        <a href="https://github.com/retrograderz25">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrograderz25&layout=compact&langs_count=8&theme=tokyonight"/>
         </a>
       </p>
     </td>
