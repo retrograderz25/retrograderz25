@@ -87,5 +87,5 @@
   <a href="https://www.facebook.com/retrograderz/"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="45px" alt="Facebook" /></a>
   <a href="https://www.instagram.com/hnoag._"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="45px" alt="Instagram" /></a>
   <a href="https://discord.gg/uQJPbcND"><img src="https://skillicons.dev/icons?i=discord" width="45px" alt="Discord" /></a>
-  <a href="hereda.unknown@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px" alt="Gmail" /></a>
+  <a href="retrograderz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px" alt="Gmail" /></a>
 </p>
