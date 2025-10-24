@@ -46,6 +46,13 @@
           <img src="https://skillicons.dev/icons?i=arduino" />
         </a>
       </p>
+      <p align="center">
+        <strong>Deployment and Hosting Platform:</strong>
+        <br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vercel" />
+        </a>
+      </p>
     </td>
     <td valign="top" width="40%">
       <h3>📊 My GitHub Stats</h3>
